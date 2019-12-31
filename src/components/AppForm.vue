@@ -10,7 +10,7 @@
       <!--add some things here to make it work with Netlify-->
       <p class="visually-hidden">
         <!--add something here to catch the bots!-->
-        <input type="hidden" name="contact" value="contact" />
+        <input type="hidden" name="form-name" value="contact" />
       </p>
       <p>
         <label>
@@ -21,7 +21,7 @@
       <p>
         <label>
           Email
-          <input type="text" name="email" />
+          <input type="email" name="email" />
         </label>
       </p>
       <p>
