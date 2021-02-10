@@ -6,7 +6,7 @@
       data-netlify="true"
       data-netlify-honeypot="bot-field"
     >
-      <h2>ziga ozi</h2>
+      <h2>Say hello</h2>
       <!--add some things here to make it work with Netlify-->
       <p class="visually-hidden">
         <!--add something here to catch the bots!-->

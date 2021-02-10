@@ -1,40 +1,13 @@
 # Uchenna Egbo | Portfolio
 
-This is a brief introduction to my professional career and my capabilities as a software engineer. This is still a work in progress and will continue to evolve as I learn more about current tools and technologies in the industry.
+Hey, you are welcome to my website. It is just a simple display of some minimal features, links, a gigantic landing image and a blog where I occasionally share things I have learned because, "why not?". 
 
-## Tools
+It is still a work in progress and will continue to evolve in the future.
+
+## Tools Used
  - HTML5
  - SCSS
  - VUE
 
-## Future changes planned
- - Implement a blog, speaking and projects pages for my future posts, conferences and projects.
- - Add tests
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Blog
+ - Hashnode [Uchenna's blog](https://blog.uchennaegbo.com/)

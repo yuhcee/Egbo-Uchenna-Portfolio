@@ -1,7 +1,7 @@
 <template>
   <footer>
     <hr />
-    <p>All materials &copy; Uchenna Egbo {{ footerYear() }}</p>
+    <p>&copy; Uchenna Egbo {{ footerYear() }}</p>
     <div class="social-links">
       <a
         :href="`https://twitter.com/${twitter}`"
@@ -23,6 +23,8 @@
 </template>
 
 <script>
+/* eslint-disable */
+
 import IconTwitter from './icons/IconTwitter.vue';
 import IconGithub from './icons/IconGithub.vue';
 import IconCodepen from './icons/IconCodepen.vue';
@@ -31,21 +33,21 @@ export default {
   components: {
     IconTwitter,
     IconGithub,
-    IconCodepen
+    IconCodepen,
   },
   data() {
     return {
-      codepen: 'uchennaegbo',
-      github: 'uchennaegbo',
-      twitter: 'uchesco_'
+      codepen: 'yuhcee',
+      github: 'yuhcee',
+      twitter: 'Yuh_Cee',
     };
   },
   methods: {
     footerYear() {
       const currentYear = new Date().getFullYear();
       return currentYear <= '2019' ? '2019' : `2019 - ${currentYear}`;
-    }
-  }
+    },
+  },
 };
 </script>
 

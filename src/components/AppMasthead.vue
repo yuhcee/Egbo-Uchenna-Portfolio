@@ -7,13 +7,14 @@
 </template>
 
 <script>
+/* eslint-disable */
 export default {
   data() {
     return {
       name: 'Uchenna',
-      title: 'Software Engineer | Web Developer'
+      title: 'Software Engineer | Web Developer',
     };
-  }
+  },
 };
 </script>
 
@@ -22,7 +23,7 @@ export default {
 
 section {
   width: 100%;
-  height: 60vw;
+  height: 50vw;
   overflow: hidden;
   background: -moz-radial-gradient(
       center,
@@ -50,7 +51,8 @@ section {
   background-size: cover;
   color: #333;
   h1 {
-    margin-top: 0.5em;
+    color: #63f105;
+    margin-top: 0.95em;
     @include fluid-type(font-size, 320px, 1366px, 30px, 100px);
   }
   h2 {
