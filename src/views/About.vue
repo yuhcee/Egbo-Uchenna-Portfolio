@@ -37,52 +37,45 @@
     <p>I am a human... laden with every characteristic of being human.</p>
 
     <p>
-      Times and seasons are not alien to me; but I have learned, that the only
+      Times and seasons are not alien to me; but I have come to understand that the only
       way forward is to constantly embrace my challenges and attack my fears.
-      Sometimes I win, sometimes I lose, but with the understanding that true
-      character lies only in the ability to forge ahead no matter the
-      circumstances. I MOVE!!!.
+      Sometimes I win, sometimes I lose, but with the knowledge that true
+      character lies in the ability to forge ahead regardless of circumstances.
     </p>
 
-    <p>I Change My Mind, and I Change My World...One-Step, then the Other!</p>
+    <p>I Change My Mind - I Change My World... One-Step, then the Other!</p>
 
     <p>
-      In a constant sojourn to make meaning of life's essence, purpose, and
-      existence... assisting others with the things I've struggled with, and
-      becoming a better version of myself each passing day, with inclination to
-      the divine succor.
+      In a constant sojourn to abstract meaning of life's essence, purpose, and
+      existence... assisting others with the things I have struggled with,
+      becoming a better version of myself everyday, with inclination to the divine succor.
     </p>
 
     <p>
-      My wish is to “LIVE”,… to the fullest, having explored all potentials,
+      My wish is to <b>“LIVE”</b> - to the fullest, having explored all potentials,
       exhausted all talents, and attempted every impossibility with a daring
       vigor.
     </p>
 
     <p>
-      In the end, I wish to really take a long look back, relishing the craziest
+      In the end, I wish to take a long look back, relishing the craziest
       moments, the horrifying mistakes, and the most challenging times with an
       accomplished smile beaming on my face appreciating that it was all worth
       it because I <b>“Dared To LIVE”</b>.
     </p>
 
     <p>
-      I like to be happy and stay healthy. I love painting, music, travelling
-      and making people laugh. I also know a thing or two about software
-      engineering and web development.
+      I love being happy and staying healthy. My hobbies includes painting, music, travelling, football
+      and comedy. I am currently software engineer by profession whose primarily focused on Web and Blockchain development.
     </p>
 
     <p>
-      Hire me - I will certainly add a lot of dynamics and energy to your team,
+      Hire me - I will certainly add a lot of dynamics and energy to your team.
       😀:
-      <a
-        href="https://drive.google.com/file/d/16jmqYG2-eZoQ9z55CfdpkrogGKvnnGwK/view?usp=sharing"
-        >Link to my resume.</a>
+      <a href="https://drive.google.com/file/d/16kppX2Ipy2j7aGV4KDFxOFZDTQmRW81o/view?usp=sharing">Link to my resume.</a>
     </p>
-    <small>
-      <i>Special thanks to <a href="https://sarah.dev/">Sarah Drasner </a>for this website template.</i>
-    </small>
   </main>
+
 </template>
 
 <style lang="scss" scoped>

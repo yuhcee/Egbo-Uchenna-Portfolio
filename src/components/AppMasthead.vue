@@ -1,8 +1,8 @@
 <template>
   <section>
     <h2>Hey there!</h2>
-    <h1>My name is {{ name }}</h1>
-    <h3 id="title">{{ title }}</h3>
+    <h1>My name is</h1>
+   <!-- <h3 id="title">{{ title }}</h3> -->
   </section>
 </template>
 
@@ -11,8 +11,8 @@
 export default {
   data() {
     return {
-      name: 'Uchenna',
-      title: 'Software Engineer | Web Developer',
+      // name: 'Uchenna',
+      //title: 'Software Engineer',
     };
   },
 };
@@ -32,7 +32,7 @@ section {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url('/lake-photo.jpg') no-repeat center center scroll; /* FF3.6-15 */
+    url('https://drive.google.com/file/d/1ycn1fCeY2_86FdQ_TzXO3i28NtQb-cIp/view?usp=sharing') no-repeat center center scroll; /* FF3.6-15 */
   background: -webkit-radial-gradient(
       center,
       ellipse cover,
@@ -40,14 +40,14 @@ section {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url('/lake-photo.jpg') no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
+    url('https://drive.google.com/file/d/1ycn1fCeY2_86FdQ_TzXO3i28NtQb-cIp/view?usp=sharing') no-repeat center center scroll; /* Chrome10-25,Safari5.1-6 */
   background: radial-gradient(
       ellipse at center,
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url('/lake-photo.jpg') no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    url('https://drive.google.com/file/d/1ycn1fCeY2_86FdQ_TzXO3i28NtQb-cIp/view?usp=sharing') no-repeat center center scroll; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   background-size: cover;
   color: #333;
   h1 {
@@ -56,6 +56,7 @@ section {
     @include fluid-type(font-size, 320px, 1366px, 30px, 100px);
   }
   h2 {
+    color: yellow;
     margin-top: 0;
     padding-top: 1em;
     @include fluid-type(font-size, 320px, 1366px, 15px, 60px);
