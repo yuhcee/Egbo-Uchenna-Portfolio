@@ -21,7 +21,11 @@ export default {
 <style lang="scss">
 @import '@/assets/main.scss';
 
+*,
 html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -32,16 +36,19 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
 }
 
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', 'Helvetica', 'Arial', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  margin: 0;
+  padding: 0;
 }
 
 main {
